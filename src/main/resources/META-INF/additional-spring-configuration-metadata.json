@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "cloud.aws.sqs.queue-name",
+    "type": "java.lang.String",
+    "description": "Queue name"
+  },
+  {
+    "name": "cloud.aws.sqs.queue-url",
+    "type": "java.lang.String",
+    "description": "Queue URL"
+  }
+]}
